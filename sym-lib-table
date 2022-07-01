@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "EFM8BB31F16G-D-QFN24")(type "KiCad")(uri "${KIPRJMOD}/lib/EFM8BB31F16G-D-QFN24/EFM8BB31F16G-D-QFN24.kicad_sym")(options "")(descr ""))
+)
